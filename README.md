@@ -19,11 +19,129 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
   - [x] [PyTorch 2](https://youtu.be/VbqNn20FoHM)
   - [x] [Colab](https://youtu.be/YmPF0jrWn6Y)
   - [x] [Backpropagation](https://youtu.be/ibJpTrp5mcE)
-  - [ ] [Regression: Case Study](https://www.bilibili.com/video/BV1Wv411h7kN/?p=15&share_source=copy_web&vd_source=d5a2fd5f7887f86f71d80b76780ed37f)
-  - [ ] [Classification: Probabilistic Generative Model](https://www.bilibili.com/video/BV1Wv411h7kN/?p=16&share_source=copy_web&vd_source=d5a2fd5f7887f86f71d80b76780ed37f)
-  - [ ] [Logistic Regression](https://www.bilibili.com/video/BV1Wv411h7kN/?p=17&share_source=copy_web&vd_source=d5a2fd5f7887f86f71d80b76780ed37f)
+  - [ ] [Regression: Case Study](https://www.youtube.com/watch?v=fegAeph9UaA)
+  - [ ] [Classification: Probabilistic Generative Model](https://www.youtube.com/watch?v=fZAZUYEeIMg)
+  - [ ] [Logistic Regression](https://www.youtube.com/watch?v=hSXFuypLukA)
 - HW 1: Regression
-  - [ ] [Video](https://www.bilibili.com/video/BV1Wv411h7kN/?p=11&share_source=copy_web&vd_source=d5a2fd5f7887f86f71d80b76780ed37f)
+  - [ ] [Video](https://www.youtube.com/watch?v=cFIImk_yBTg)
+  - [ ] Code
+
+### Lecture 2: What to do if my network fails to train
+- Class Material:
+  - [ ] [General Guide](https://www.youtube.com/watch?v=WeHM2xpYQpw)
+  - [ ] [Local Minima and Saddle Point](https://www.youtube.com/watch?v=QW6uINn7uGk)
+  - [ ] [Batch and Momentum](https://www.youtube.com/watch?v=zzbr1h9sF54)
+  - [ ] [Learning Rate](https://www.youtube.com/watch?v=HYUXEeh3kwY)
+  - [ ] [Classification (Short)](https://www.youtube.com/watch?v=O2VkP8dJ5FE)
+  - [ ] [Week 2: Priciples of Machine Learning](https://www.youtube.com/watch?v=_j9MVVcvyZI)
+  - [ ] [New Optimization 1](https://www.youtube.com/watch?v=4pUmZ8hXlHM)
+  - [ ] [New Optimization 2](https://www.youtube.com/watch?v=e03YKGHXnL8)
+- HW 2: Classification
+  - [ ] [Video](https://youtu.be/FxuPF4vjga4)
+  - [ ] Code
+
+### Lecture 3: Image as input
+- Class Material:
+  - [ ] []()
+  - [ ] []()
+- HW 3: CNN
+  - [ ] [Video](https://youtu.be/GXLwjQ_O50g)
+  - [ ] Code
+
+### Lecture 4: Sequence as input
+- Class Material:
+  - [ ] []()
+  - [ ] []()
+- HW 4: Self-attention
+  - [ ] [Video](https://www.youtube.com/watch?v=-KbD40w9-Io)
+  - [ ] Code
+
+### Lecture 5: Sequence to sequence
+- Class Material:
+  - [ ] []()
+  - [ ] []()
+- HW 5: Transformer
+  - [ ] [Video](https://youtu.be/f8ahfk2T0kE)
+  - [ ] Code
+
+### Lecture 6: Generation
+- Class Material:
+  - [ ] []()
+  - [ ] []()
+- HW 6: GAN
+  - [ ] [Video](https://youtu.be/MN7l_OBvIx0)
+  - [ ] Code
+
+### Lecture 7: Self-supervised learning for Speech and Image
+- Class Material:
+  - [ ] []()
+  - [ ] []()
+- HW 7: BERT
+  - [ ] [Video](https://youtu.be/Ezgae3YmGqk)
+  - [ ] Code
+
+### Lecture 8: Auto-encoder/ Anomaly Detection
+- Class Material:
+  - [ ] []()
+  - [ ] []()
+- HW 8: Autoencoder
+  - [ ] [Video](https://youtu.be/qIHPBXl2BZU)
+  - [ ] Code
+
+### Lecture 9: Explainable AI
+- Class Material:
+  - [ ] []()
+  - [ ] []()
+- HW 9: Explainable AI
+  - [ ] [Video](https://youtu.be/t--vE4l4gCo)
+  - [ ] Code
+
+### Lecture 10: Attack
+- Class Material:
+  - [ ] []()
+  - [ ] []()
+- HW 10: Attack
+  - [ ] [Video](https://youtu.be/On90EZzVKzk)
+  - [ ] Code
+
+### Lecture 11: Adaptation
+- Class Material:
+  - [ ] []()
+  - [ ] []()
+- HW 11: Adaptation
+  - [ ] [Video](https://youtu.be/xHzPns_CU7I)
+  - [ ] Code
+
+### Lecture 12: Reinforcement Learning
+- Class Material:
+  - [ ] []()
+  - [ ] []()
+- HW 12: RL
+  - [ ] [Video](https://youtu.be/GXiUsPtXL_s)
+  - [ ] Code
+
+### Lecture 13: Network Compression
+- Class Material:
+  - [ ] []()
+  - [ ] []()
+- HW 13: Compression
+  - [ ] [Video](https://youtu.be/4Td88Yflv-0)
+  - [ ] Code
+
+### Lecture 14: Life-long Learning
+- Class Material:
+  - [ ] []()
+  - [ ] []()
+- HW 14: Life-long
+  - [ ] [Video](https://youtu.be/6-batUSKGMk)
+  - [ ] Code
+
+### Lecture 15: Meta Learning
+- Class Material:
+  - [ ] []()
+  - [ ] []()
+- HW 15: Meta Learning
+  - [ ] [Video](https://youtu.be/QIsd7ceYhNM)
   - [ ] Code
 
 ## Test Environment
