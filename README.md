@@ -11,6 +11,7 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
 ## Schedule
 
 ### Lecture 1: Introduction of Deep Learning
+
 - Class Material:
   - [x] [Linear Model](https://youtu.be/Ye018rCVvOo)
   - [x] [Sigmoid and ReLU](https://youtu.be/bHcJCp2Fyxs)
@@ -19,60 +20,85 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
   - [x] [PyTorch 2](https://youtu.be/VbqNn20FoHM)
   - [x] [Colab](https://youtu.be/YmPF0jrWn6Y)
   - [x] [Backpropagation](https://youtu.be/ibJpTrp5mcE)
-  - [ ] [Regression: Case Study](https://www.youtube.com/watch?v=fegAeph9UaA)
-  - [ ] [Classification: Probabilistic Generative Model](https://www.youtube.com/watch?v=fZAZUYEeIMg)
-  - [ ] [Logistic Regression](https://www.youtube.com/watch?v=hSXFuypLukA)
+  - [x] [Regression: Case Study](https://www.youtube.com/watch?v=fegAeph9UaA)
+  - [x] [Classification: Probabilistic Generative Model](https://www.youtube.com/watch?v=fZAZUYEeIMg)
+  - [x] [Logistic Regression](https://www.youtube.com/watch?v=hSXFuypLukA)
 - HW 1: Regression
   - [ ] [Video](https://www.youtube.com/watch?v=cFIImk_yBTg)
   - [ ] Code
 
 ### Lecture 2: What to do if my network fails to train
+
 - Class Material:
-  - [ ] [General Guide](https://www.youtube.com/watch?v=WeHM2xpYQpw)
-  - [ ] [Local Minima and Saddle Point](https://www.youtube.com/watch?v=QW6uINn7uGk)
-  - [ ] [Batch and Momentum](https://www.youtube.com/watch?v=zzbr1h9sF54)
-  - [ ] [Learning Rate](https://www.youtube.com/watch?v=HYUXEeh3kwY)
-  - [ ] [Classification (Short)](https://www.youtube.com/watch?v=O2VkP8dJ5FE)
+  - [x] [General Guide](https://www.youtube.com/watch?v=WeHM2xpYQpw)
+  - [x] [Local Minima and Saddle Point](https://www.youtube.com/watch?v=QW6uINn7uGk)
+  - [x] [Batch and Momentum](https://www.youtube.com/watch?v=zzbr1h9sF54)
+  - [x] [Learning Rate](https://www.youtube.com/watch?v=HYUXEeh3kwY)
+  - [x] [Classification (Short)](https://www.youtube.com/watch?v=O2VkP8dJ5FE)
   - [ ] [Week 2: Priciples of Machine Learning](https://www.youtube.com/watch?v=_j9MVVcvyZI)
-  - [ ] [New Optimization 1](https://www.youtube.com/watch?v=4pUmZ8hXlHM)
-  - [ ] [New Optimization 2](https://www.youtube.com/watch?v=e03YKGHXnL8)
+  - [ ] [New Optimization (Beyond Adam) 1](https://www.youtube.com/watch?v=4pUmZ8hXlHM)
+  - [ ] [New Optimization (Beyond Adam) 2](https://www.youtube.com/watch?v=e03YKGHXnL8)
 - HW 2: Classification
   - [ ] [Video](https://youtu.be/FxuPF4vjga4)
   - [ ] Code
 
 ### Lecture 3: Image as input
+
 - Class Material:
-  - [ ] []()
-  - [ ] []()
+  - [ ] [Convolutional Neural Network (CNN)](https://www.youtube.com/watch?v=OP5HcXJg2Aw)
+  - [ ] [Used validation set, but still overfitted?](https://www.youtube.com/watch?v=xQXh3fSvD1A)
+  - [ ] [Why Deep Learning](https://www.youtube.com/watch?v=yXd2D5J0QDU)
+  - [ ] [Spatial Transformer Layer](https://www.youtube.com/watch?v=SoCywZ1hZak)
 - HW 3: CNN
   - [ ] [Video](https://youtu.be/GXLwjQ_O50g)
   - [ ] Code
 
 ### Lecture 4: Sequence as input
+
 - Class Material:
-  - [ ] []()
-  - [ ] []()
+  - [ ] [Self-attention 1](https://www.youtube.com/watch?v=hYdO9CscNes)
+  - [ ] [Self-attention 2](https://www.youtube.com/watch?v=gmsMY5kc-zw)
+  - [ ] [Recurrent Neural Network (RNN) 1](https://www.youtube.com/watch?v=xCGidAeyS4M)
+  - [ ] [Recurrent Neural Network (RNN) 2](https://www.youtube.com/watch?v=rTqmWlnwz_0)
+  - [ ] [Graph Neural Networks (GNN) 1](https://www.youtube.com/watch?v=eybCCtNKwzA)
+  - [ ] [Graph Neural Networks (GNN) 2](https://www.youtube.com/watch?v=M9ht8vsVEw8)
+  - [ ] [Unsupervised Learning: Word Embedding](https://www.youtube.com/watch?v=X7PH3NuYW0Q)
 - HW 4: Self-attention
   - [ ] [Video](https://www.youtube.com/watch?v=-KbD40w9-Io)
   - [ ] Code
 
 ### Lecture 5: Sequence to sequence
+
 - Class Material:
-  - [ ] []()
-  - [ ] []()
+  - [ ] [Quick Introduction of Batch Normalization](https://www.youtube.com/watch?v=BABPWOkSbLE)
+  - [ ] [Transformer 1](https://www.youtube.com/watch?v=n9TlOhRjYoc)
+  - [ ] [Transformer 2](https://www.youtube.com/watch?v=N6aRv06iv2g)
+  - [ ] [Various Kinds of Attention](https://www.youtube.com/watch?v=yHoAq1IT_og)
+  - [ ] [Non-Autoregressive Sequence Generation](https://www.youtube.com/watch?v=jvyKmU4OM3c)
+  - [ ] [Pointer Network](https://www.youtube.com/watch?v=VdOyqNQ9aww)
 - HW 5: Transformer
   - [ ] [Video](https://youtu.be/f8ahfk2T0kE)
   - [ ] Code
 
 ### Lecture 6: Generation
+
 - Class Material:
-  - [ ] []()
-  - [ ] []()
+  - [ ] [Generative Adversarial Network (GAN) 1](https://www.youtube.com/watch?v=4OWp0wDu6Xw)
+  - [ ] [Generative Adversarial Network (GAN) 2](https://www.youtube.com/watch?v=jNY1WBb8l4U)
+  - [ ] [Generative Adversarial Network (GAN) 3](https://www.youtube.com/watch?v=MP0BnVH2yOo)
+  - [ ] [Generative Adversarial Network (GAN) 4](https://www.youtube.com/watch?v=wulqhgnDr7E)
+  - [ ] [Theory behind GAN](https://www.youtube.com/watch?v=DMA4MrNieWo)
+  - [ ] [General Framework of GAN](https://www.youtube.com/watch?v=av1bqilLsyQ)
+  - [ ] [Tips for Improving GAN](https://www.youtube.com/watch?v=3JP-xuBJsyc)
+  - [ ] [Unsupervised Learning: Deep Generative Model 1](https://www.youtube.com/watch?v=YNUek8ioAJk)
+  - [ ] [Unsupervised Learning: Deep Generative Model 2](https://www.youtube.com/watch?v=8zomhgKrsmQ)
+  - [ ] [Flow-based Generative Model](https://www.youtube.com/watch?v=uXY18nzdSsM)
 - HW 6: GAN
   - [ ] [Video](https://youtu.be/MN7l_OBvIx0)
   - [ ] Code
 
 ### Lecture 7: Self-supervised learning for Speech and Image
+
 - Class Material:
   - [ ] []()
   - [ ] []()
@@ -81,6 +107,7 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
   - [ ] Code
 
 ### Lecture 8: Auto-encoder/ Anomaly Detection
+
 - Class Material:
   - [ ] []()
   - [ ] []()
@@ -89,6 +116,7 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
   - [ ] Code
 
 ### Lecture 9: Explainable AI
+
 - Class Material:
   - [ ] []()
   - [ ] []()
@@ -97,6 +125,7 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
   - [ ] Code
 
 ### Lecture 10: Attack
+
 - Class Material:
   - [ ] []()
   - [ ] []()
@@ -105,6 +134,7 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
   - [ ] Code
 
 ### Lecture 11: Adaptation
+
 - Class Material:
   - [ ] []()
   - [ ] []()
@@ -113,6 +143,7 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
   - [ ] Code
 
 ### Lecture 12: Reinforcement Learning
+
 - Class Material:
   - [ ] []()
   - [ ] []()
@@ -121,6 +152,7 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
   - [ ] Code
 
 ### Lecture 13: Network Compression
+
 - Class Material:
   - [ ] []()
   - [ ] []()
@@ -129,6 +161,7 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
   - [ ] Code
 
 ### Lecture 14: Life-long Learning
+
 - Class Material:
   - [ ] []()
   - [ ] []()
@@ -137,6 +170,7 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
   - [ ] Code
 
 ### Lecture 15: Meta Learning
+
 - Class Material:
   - [ ] []()
   - [ ] []()
