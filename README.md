@@ -35,7 +35,7 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
   - [x] [Batch and Momentum](https://www.youtube.com/watch?v=zzbr1h9sF54)
   - [x] [Learning Rate](https://www.youtube.com/watch?v=HYUXEeh3kwY)
   - [x] [Classification (Short)](https://www.youtube.com/watch?v=O2VkP8dJ5FE)
-  - [ ] [Week 2: Priciples of Machine Learning](https://www.youtube.com/watch?v=_j9MVVcvyZI)
+  - [x] [Week 2: Priciples of Machine Learning](https://www.youtube.com/watch?v=_j9MVVcvyZI)
   - [ ] [New Optimization (Beyond Adam) 1](https://www.youtube.com/watch?v=4pUmZ8hXlHM)
   - [ ] [New Optimization (Beyond Adam) 2](https://www.youtube.com/watch?v=e03YKGHXnL8)
 - HW 2: Classification
@@ -45,9 +45,9 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
 ### Lecture 3: Image as input
 
 - Class Material:
-  - [ ] [Convolutional Neural Network (CNN)](https://www.youtube.com/watch?v=OP5HcXJg2Aw)
-  - [ ] [Used validation set, but still overfitted?](https://www.youtube.com/watch?v=xQXh3fSvD1A)
-  - [ ] [Why Deep Learning](https://www.youtube.com/watch?v=yXd2D5J0QDU)
+  - [x] [Convolutional Neural Network (CNN)](https://www.youtube.com/watch?v=OP5HcXJg2Aw)
+  - [x] [Used validation set, but still overfitted?](https://www.youtube.com/watch?v=xQXh3fSvD1A)
+  - [x] [Why Deep Learning](https://www.youtube.com/watch?v=yXd2D5J0QDU)
   - [ ] [Spatial Transformer Layer](https://www.youtube.com/watch?v=SoCywZ1hZak)
 - HW 3: CNN
   - [ ] [Video](https://youtu.be/GXLwjQ_O50g)
@@ -56,8 +56,8 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
 ### Lecture 4: Sequence as input
 
 - Class Material:
-  - [ ] [Self-attention 1](https://www.youtube.com/watch?v=hYdO9CscNes)
-  - [ ] [Self-attention 2](https://www.youtube.com/watch?v=gmsMY5kc-zw)
+  - [x] [Self-attention 1](https://www.youtube.com/watch?v=hYdO9CscNes)
+  - [x] [Self-attention 2](https://www.youtube.com/watch?v=gmsMY5kc-zw)
   - [ ] [Recurrent Neural Network (RNN) 1](https://www.youtube.com/watch?v=xCGidAeyS4M)
   - [ ] [Recurrent Neural Network (RNN) 2](https://www.youtube.com/watch?v=rTqmWlnwz_0)
   - [ ] [Graph Neural Networks (GNN) 1](https://www.youtube.com/watch?v=eybCCtNKwzA)
@@ -70,9 +70,9 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
 ### Lecture 5: Sequence to sequence
 
 - Class Material:
-  - [ ] [Quick Introduction of Batch Normalization](https://www.youtube.com/watch?v=BABPWOkSbLE)
-  - [ ] [Transformer 1](https://www.youtube.com/watch?v=n9TlOhRjYoc)
-  - [ ] [Transformer 2](https://www.youtube.com/watch?v=N6aRv06iv2g)
+  - [x] [Quick Introduction of Batch Normalization](https://www.youtube.com/watch?v=BABPWOkSbLE)
+  - [x] [Transformer 1](https://www.youtube.com/watch?v=n9TlOhRjYoc)
+  - [x] [Transformer 2](https://www.youtube.com/watch?v=N6aRv06iv2g)
   - [ ] [Various Kinds of Attention](https://www.youtube.com/watch?v=yHoAq1IT_og)
   - [ ] [Non-Autoregressive Sequence Generation](https://www.youtube.com/watch?v=jvyKmU4OM3c)
   - [ ] [Pointer Network](https://www.youtube.com/watch?v=VdOyqNQ9aww)
@@ -97,11 +97,10 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
   - [ ] [Video](https://youtu.be/MN7l_OBvIx0)
   - [ ] Code
 
-### Lecture 7: Self-supervised learning for Speech and Image
+### Lecture 7: Self-supervised Learning for Speech and Image
 
 - Class Material:
-  - [ ] []()
-  - [ ] []()
+  - [ ] [Self-supervised Learning for Speech and Image](https://www.youtube.com/watch?v=lMIN1iKYNmA)
 - HW 7: BERT
   - [ ] [Video](https://youtu.be/Ezgae3YmGqk)
   - [ ] Code
@@ -109,8 +108,17 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
 ### Lecture 8: Auto-encoder/ Anomaly Detection
 
 - Class Material:
-  - [ ] []()
-  - [ ] []()
+  - [ ] [Auto-encoder 1](https://www.youtube.com/watch?v=3oHlf8-J3Nc)
+  - [ ] [Auto-encoder 2](https://www.youtube.com/watch?v=JZvEzb5PV3U)
+  - [ ] [Anomaly Detection 1](https://www.youtube.com/watch?v=gDp2LXGnVLQ)
+  - [ ] [Anomaly Detection 2](https://www.youtube.com/watch?v=cYrNjLxkoXs)
+  - [ ] [Anomaly Detection 3](https://www.youtube.com/watch?v=ueDlm2FkCnw)
+  - [ ] [Anomaly Detection 4](https://www.youtube.com/watch?v=XwkHOUPbc0Q)
+  - [ ] [Anomaly Detection 5](https://www.youtube.com/watch?v=Fh1xFBktRLQ)
+  - [ ] [Anomaly Detection 6](https://www.youtube.com/watch?v=LmFWzmn2rFY)
+  - [ ] [Anomaly Detection 7](https://www.youtube.com/watch?v=6W8FqUGYyDo)
+  - [ ] [Unsupervised Learning - Linear Methods](https://www.youtube.com/watch?v=iwh5o_M4BNU)
+  - [ ] [Unsupervised Learning - Neighbor Embedding](https://www.youtube.com/watch?v=GBUEjkpoxXc)
 - HW 8: Autoencoder
   - [ ] [Video](https://youtu.be/qIHPBXl2BZU)
   - [ ] Code
@@ -118,8 +126,9 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
 ### Lecture 9: Explainable AI
 
 - Class Material:
-  - [ ] []()
-  - [ ] []()
+  - [ ] [Explainable Machine Learning 1](https://www.youtube.com/watch?v=WQY85vaQfTI)
+  - [ ] [Explainable Machine Learning 2](https://www.youtube.com/watch?v=0ayIPqbdHYQ)
+  - [ ] [Attacks in NLP](https://www.youtube.com/watch?v=z-lRPFFYVJc)
 - HW 9: Explainable AI
   - [ ] [Video](https://youtu.be/t--vE4l4gCo)
   - [ ] Code
@@ -127,8 +136,9 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
 ### Lecture 10: Attack
 
 - Class Material:
-  - [ ] []()
-  - [ ] []()
+  - [ ] [Adversarial Attack 1](https://www.youtube.com/watch?v=xGQKhbjrFRk)
+  - [ ] [Adversarial Attack 2](https://www.youtube.com/watch?v=z-Q9ia5H2Ig)
+  - [ ] [Evasion Attacks](https://www.youtube.com/watch?v=68lwXWFzCmg)
 - HW 10: Attack
   - [ ] [Video](https://youtu.be/On90EZzVKzk)
   - [ ] Code
@@ -136,8 +146,8 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
 ### Lecture 11: Adaptation
 
 - Class Material:
-  - [ ] []()
-  - [ ] []()
+  - [ ] [Domain Adaptation](https://www.youtube.com/watch?v=Mnk_oUrgppM)
+  - [ ] [How versatile are self-supervised models?](https://www.youtube.com/watch?v=Pal2DbmiYpk)
 - HW 11: Adaptation
   - [ ] [Video](https://youtu.be/xHzPns_CU7I)
   - [ ] Code
@@ -145,8 +155,11 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
 ### Lecture 12: Reinforcement Learning
 
 - Class Material:
-  - [ ] []()
-  - [ ] []()
+  - [ ] [Reinforcement Learning (RL) 1](https://www.youtube.com/watch?v=XWukX-ayIrs)
+  - [ ] [Reinforcement Learning (RL) 2](https://www.youtube.com/watch?v=US8DFaAZcp4)
+  - [ ] [Reinforcement Learning (RL) 3](https://www.youtube.com/watch?v=kk6DqWreLeU)
+  - [ ] [Reinforcement Learning (RL) 4](https://www.youtube.com/watch?v=73YyF1gmIus)
+  - [ ] [Reinforcement Learning (RL) 5](https://www.youtube.com/watch?v=75rZwxKBAf0)
 - HW 12: RL
   - [ ] [Video](https://youtu.be/GXiUsPtXL_s)
   - [ ] Code
@@ -154,8 +167,11 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
 ### Lecture 13: Network Compression
 
 - Class Material:
-  - [ ] []()
-  - [ ] []()
+  - [ ] [Network Compression 1](https://www.youtube.com/watch?v=utk3EnAUh-g)
+  - [ ] [Network Compression 2](https://www.youtube.com/watch?v=xrlbLPaq_Og)
+  - [ ] [Proximal Policy Optimization (PPO)](https://www.youtube.com/watch?v=OAKAZhFmYoI)
+  - [ ] [Q-learning 1](https://www.youtube.com/watch?v=o_g9JUMw1Oc)
+  - [ ] [Q-learning 2](https://www.youtube.com/watch?v=2-zGCx4iv_k)
 - HW 13: Compression
   - [ ] [Video](https://youtu.be/4Td88Yflv-0)
   - [ ] Code
@@ -163,8 +179,9 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
 ### Lecture 14: Life-long Learning
 
 - Class Material:
-  - [ ] []()
-  - [ ] []()
+  - [ ] [Life Long Learning (LL) 1](https://www.youtube.com/watch?v=rWF9sg5w6Zk)
+  - [ ] [Life Long Learning (LL) 2](https://www.youtube.com/watch?v=Y9Jay_vxOsM)
+  - [ ] [Meta Learning](https://www.youtube.com/watch?v=xoastiYx9JU)
 - HW 14: Life-long
   - [ ] [Video](https://youtu.be/6-batUSKGMk)
   - [ ] Code
@@ -172,8 +189,24 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
 ### Lecture 15: Meta Learning
 
 - Class Material:
-  - [ ] []()
-  - [ ] []()
+  - [ ] [Meta Learning 1](https://www.youtube.com/watch?v=xoastiYx9JU)
+  - [ ] [Meta Learning 2](https://www.youtube.com/watch?v=Q68Eh-wm1Ts)
+  - [ ] [MAML 1](https://youtu.be/EkAqYbpCYAc)
+  - [ ] [MAML 2](https://youtu.be/9k4ND-xjcgM)
+  - [ ] [MAML 3](https://youtu.be/PznN0w7dYc0)
+  - [ ] [MAML 4](https://youtu.be/knaAdp5uWRg)
+  - [ ] [MAML 5](https://youtu.be/vUwOA3SNb_E)
+  - [ ] [MAML 6](https://youtu.be/dV-Crj8hsJM)
+  - [ ] [MAML 7](https://youtu.be/mxqzGwP_Qys)
+  - [ ] [MAML 8](https://youtu.be/3z997JhL9Oo)
+  - [ ] [MAML 9](https://youtu.be/9jJe2AD35P8)
+  - [ ] [Learnable Gradient Descent 1](https://youtu.be/NjZygLDXxjg)
+  - [ ] [Learnable Gradient Descent 2](https://youtu.be/G_xYYq772NQ)
+  - [ ] [Learnable Gradient Descent 3](https://youtu.be/p0Tn8oZWZbQ)
+  - [ ] [Meta Learning: Metric-based 1](https://youtu.be/yyKaACh_j3M)
+  - [ ] [Meta Learning: Metric-based 2](https://youtu.be/scK2EIT7klw)
+  - [ ] [Meta Learning: Metric-based 3](https://youtu.be/semSxPP2Yzg)
+  - [ ] [Meta Learning: Train + Test as RNN](https://youtu.be/ePimv_k-H24)
 - HW 15: Meta Learning
   - [ ] [Video](https://youtu.be/QIsd7ceYhNM)
   - [ ] Code
