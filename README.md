@@ -83,10 +83,10 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
 ### Lecture 6: Generation
 
 - Class Material:
-  - [ ] [Generative Adversarial Network (GAN) 1](https://www.youtube.com/watch?v=4OWp0wDu6Xw)
-  - [ ] [Generative Adversarial Network (GAN) 2](https://www.youtube.com/watch?v=jNY1WBb8l4U)
-  - [ ] [Generative Adversarial Network (GAN) 3](https://www.youtube.com/watch?v=MP0BnVH2yOo)
-  - [ ] [Generative Adversarial Network (GAN) 4](https://www.youtube.com/watch?v=wulqhgnDr7E)
+  - [x] [Generative Adversarial Network (GAN) 1](https://www.youtube.com/watch?v=4OWp0wDu6Xw)
+  - [x] [Generative Adversarial Network (GAN) 2](https://www.youtube.com/watch?v=jNY1WBb8l4U)
+  - [x] [Generative Adversarial Network (GAN) 3](https://www.youtube.com/watch?v=MP0BnVH2yOo)
+  - [x] [Generative Adversarial Network (GAN) 4](https://www.youtube.com/watch?v=wulqhgnDr7E)
   - [ ] [Theory behind GAN](https://www.youtube.com/watch?v=DMA4MrNieWo)
   - [ ] [General Framework of GAN](https://www.youtube.com/watch?v=av1bqilLsyQ)
   - [ ] [Tips for Improving GAN](https://www.youtube.com/watch?v=3JP-xuBJsyc)
@@ -108,8 +108,8 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
 ### Lecture 8: Auto-encoder/ Anomaly Detection
 
 - Class Material:
-  - [ ] [Auto-encoder 1](https://www.youtube.com/watch?v=3oHlf8-J3Nc)
-  - [ ] [Auto-encoder 2](https://www.youtube.com/watch?v=JZvEzb5PV3U)
+  - [x] [Auto-encoder 1](https://www.youtube.com/watch?v=3oHlf8-J3Nc)
+  - [x] [Auto-encoder 2](https://www.youtube.com/watch?v=JZvEzb5PV3U)
   - [ ] [Anomaly Detection 1](https://www.youtube.com/watch?v=gDp2LXGnVLQ)
   - [ ] [Anomaly Detection 2](https://www.youtube.com/watch?v=cYrNjLxkoXs)
   - [ ] [Anomaly Detection 3](https://www.youtube.com/watch?v=ueDlm2FkCnw)
@@ -155,11 +155,11 @@ A collection of Prof. Lee's resources can be found [here](https://github.com/Faf
 ### Lecture 12: Reinforcement Learning
 
 - Class Material:
-  - [ ] [Reinforcement Learning (RL) 1](https://www.youtube.com/watch?v=XWukX-ayIrs)
-  - [ ] [Reinforcement Learning (RL) 2](https://www.youtube.com/watch?v=US8DFaAZcp4)
-  - [ ] [Reinforcement Learning (RL) 3](https://www.youtube.com/watch?v=kk6DqWreLeU)
-  - [ ] [Reinforcement Learning (RL) 4](https://www.youtube.com/watch?v=73YyF1gmIus)
-  - [ ] [Reinforcement Learning (RL) 5](https://www.youtube.com/watch?v=75rZwxKBAf0)
+  - [x] [Reinforcement Learning (RL) 1](https://www.youtube.com/watch?v=XWukX-ayIrs)
+  - [x] [Reinforcement Learning (RL) 2](https://www.youtube.com/watch?v=US8DFaAZcp4)
+  - [x] [Reinforcement Learning (RL) 3](https://www.youtube.com/watch?v=kk6DqWreLeU)
+  - [x] [Reinforcement Learning (RL) 4](https://www.youtube.com/watch?v=73YyF1gmIus)
+  - [x] [Reinforcement Learning (RL) 5](https://www.youtube.com/watch?v=75rZwxKBAf0)
 - HW 12: RL
   - [ ] [Video](https://youtu.be/GXiUsPtXL_s)
   - [ ] Code
